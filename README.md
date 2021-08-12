@@ -23,6 +23,5 @@ SYMBOLS=EUR,USD,AUD
 # References
 
 -   get api key from [exchangerates dashboard](https://manage.exchangeratesapi.io/dashboard)
--   [api endpoint](http://api.exchangeratesapi.io/v1/)
 -   [api endpoint](https://api.exchangeratesapi.io/v1/2013-12-24?access_key=API_KEY&base=GBP&symbols=USD,CAD,EUR)
 -   [api documentation](https://exchangeratesapi.io/documentation/)
